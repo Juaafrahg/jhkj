@@ -1,0 +1,23 @@
+*{
+   margin: 0%;
+}
+
+.contenedor{
+    background-color: cadetblue;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 10%;
+}
+
+#nobtn{
+    transform:translate(-100%,0)
+}
+
+#sibtn{
+    position: absolute;
+}
